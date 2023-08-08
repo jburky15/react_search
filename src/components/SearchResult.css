@@ -1,0 +1,9 @@
+.search-result {
+    padding: 10px 20px;
+    width: 100%;
+    text-align: center;
+}
+
+.search-result:hover {
+    background-color: aquamarine;
+}
